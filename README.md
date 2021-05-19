@@ -1,2 +1,1 @@
 # Public
-Selected projects
